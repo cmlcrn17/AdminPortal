@@ -14,6 +14,7 @@ Yönetim portalı kapsamı itibariyle bir data setini yönetmek üzerine gelişt
 
 ![ExampleUI](https://github.com/cmlcrn17/AdminPortal/blob/main/adminportal.png)
 
+---
 
 ## 🧩 Kapsanacak Özellikler
 ✅ Giriş Ekranı
@@ -41,6 +42,7 @@ Yönetim portalı kapsamı itibariyle bir data setini yönetmek üzerine gelişt
 * Hata detay sayfasında, çözüm metni girip eklenmesi
 * Birden fazla çözüm desteklenebilir
 
+---
 
 🔄 Stajyerin Öğrenmesi Beklenenler
 * MVC mimarisi
