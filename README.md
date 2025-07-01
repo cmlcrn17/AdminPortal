@@ -12,6 +12,9 @@ Yönetim portalı kapsamı itibariyle bir data setini yönetmek üzerine gelişt
 
 * Diğer: LINQ, ViewModel yapısı, TempData/ViewBag kullanımı, CRUD işlemleri
 
+![ExampleUI](https://github.com/cmlcrn17/AdminPortal/blob/main/adminportal.png)
+
+
 ## 🧩 Kapsanacak Özellikler
 ✅ Giriş Ekranı
 * Admin panel girişi (sabit kullanıcı: admin, şifre: admin123)
